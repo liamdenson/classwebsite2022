@@ -1,0 +1,22 @@
+body {
+    background-color: bisque;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.logo {
+    width: 80px;
+    margin: auto;
+    display: block;
+}
+.navigation {
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+}
+.navigation a {
+    color: white;
+    text-decoration: none;
+}
+.banner {
+    height: 800px;
+    background-color: peru;
+    background-image: url("images/background.jpg")
+}
