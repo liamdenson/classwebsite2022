@@ -21,3 +21,10 @@ body {
     background-image: url("images/background.jpg");
     font-family: 'Silkscreen', cursive;
 }
+.social {
+    font-size:24px;
+}
+.social a {
+    color: black;
+    text-decoration: none;
+}
